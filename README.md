@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Manish Pal
 
-<!--
-**Manish10111/manish10111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+I’m a Final Year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. Passionate about leveraging technology to solve real-world problems, I combine a solid foundation in programming with a creative approach to crafting impactful solutions.
 
-Here are some ideas to get you started:
+### 💻 Skills & Expertise  
+- **Programming Languages**: Python, Java, SQL  
+- **AI & Machine Learning**: Predictive Modeling, Data Analysis, and Optimization  
+- **Web Development**: Responsive and user-friendly designs using front-end technologies  
+- **Video Editing**: Freelance experience in creating compelling visual content
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Interests  
+I’m deeply interested in:  
+- Artificial Intelligence and its applications  
+- Machine Learning & Data Science  
+- Front-end and full-stack web development  
+- Creative media projects
+
+### 📧 Let’s Connect  
+Feel free to explore my work or get in touch:  
+- **LinkedIn**: [https://www.linkedin.com/in/manish-pal23/]  
+
+Let’s collaborate and create something amazing!
+
+---
