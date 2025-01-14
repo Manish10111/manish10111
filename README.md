@@ -18,7 +18,7 @@ I’m deeply interested in:
 
 ### 📧 Let’s Connect  
 Feel free to explore my work or get in touch:  
-- **LinkedIn**: [https://www.linkedin.com/in/manish-pal23/]  
+- **LinkedIn**: https://www.linkedin.com/in/manish-pal23/  
 
 Let’s collaborate and create something amazing!
 
